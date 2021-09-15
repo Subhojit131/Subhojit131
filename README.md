@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhojit131
+- 👋 Hi, I’m subhojit Mandal
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python,javascript,c++
 - 💞️ I’m looking to collaborate on interesting projects using python 
