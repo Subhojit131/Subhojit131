@@ -1,7 +1,7 @@
 - 👋 Hi, I’m subhojit Mandal
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python,javascript,c++
-- 💞️ I’m looking to collaborate on interesting projects using python 
+- 💞️ I’m looking to collaborate on interesting projects 
 - 📫 you can reach me by my email subhojitmandal147@gmail.com
 
 <!---
